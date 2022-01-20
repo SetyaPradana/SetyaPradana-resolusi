@@ -6,3 +6,4 @@
   - Belajar JAVASCRIP
   - Dan setalah paham akan 4 materi di atas,
     aku mau belajar framework dari masing-masing hal diatas.
+Harus mulai praktek, meskipun hanya project sederhana
